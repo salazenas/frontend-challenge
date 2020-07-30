@@ -1,25 +1,52 @@
-# frontend-challenge
+<div align="center">
 
-- React
-- Material-ui
-- https://reqres.in -> API FAKE
-- Fazer um fork deste repositório.
+[![Followers](https://img.shields.io/github/followers/salazenas?style=social)](https://github.com/salazenas)
+[![Stars](https://img.shields.io/github/stars/salazenas/frontend-challenge?style=social)](#)
 
-## Criar um SPA com 3 rotas:
+## [Veja a Demo](https://fabio-frontend-challenge.netlify.app/)
 
-#### Home Page - /
-  Colocar algum conteúdo fake e um button com link para a lista de usuários.
+</div>
 
-#### Users Page - /users
-  - Buscar lista de usuários em GET `/api/users`.
-  - Lista de usuários, pode ser uma table.
-  - Cada user deve ter um button com link para a edição dele.
-  - Button voltar para home
-  
-#### User Edit Page - /users/:userId
-  - Buscar dados do usuário em GET `/api/users/:userId`.
-  - Form para alterar email, first_name e last_name.
-  - Fazer request para atualizar usuário em PUT `/api/users/:userId`,
-  adicionar um mensagem informando o sucesso|erro.
-  - Button voltar para users.
+## Sobre
 
+Este repositorio foi desenvolvido para cumprir os requisitos do desafio em desenvolvimento Frontend.
+
+### Tecnologias utilizadas
+
+- ReactJS
+- ReactRouterDom
+- Material UI
+- Axios
+- Sass
+
+## Rodando o projeto
+
+Clone o repositorio:
+
+```bash
+git clone https://github.com/salazenas/frontend-challenge.git
+```
+
+Instale as dependencias:
+
+```bash
+npm install
+```
+
+ou
+
+```bash
+yarn
+```
+
+Rode o servidor:
+
+```bash
+npm start
+```
+
+ou
+
+```bash
+yarn start
+```
