@@ -50,7 +50,7 @@ export default function UsersList() {
     <Container isLoading={!users}>
       <Card className={classes.root}>
         <CardHeader
-          action={<ReturnButton to="/home" />}
+          action={<ReturnButton to="/" />}
           title="Lista de usuários"
         />
         <CardContent>
