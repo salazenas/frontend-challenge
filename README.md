@@ -3,7 +3,8 @@
 [![Followers](https://img.shields.io/github/followers/salazenas?style=social)](https://github.com/salazenas)
 [![Stars](https://img.shields.io/github/stars/salazenas/frontend-challenge?style=social)](#)
 
-## [Veja a Demo](https://fabio-frontend-challenge.netlify.app/)
+## [Veja a demo no Netlify](https://fabio-frontend-challenge.netlify.app/)
+## [Veja a código do projeto em execução no CodeSandbox](https://codesandbox.io/s/fabio-frontend-challenge-wv0wq/)
 
 </div>
 
